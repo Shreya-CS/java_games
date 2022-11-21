@@ -175,7 +175,6 @@ public class gamePlay extends JPanel implements KeyListener,ActionListener{
 			}
 		}
 	}
-	//paddle moving right
 	public void moveRight() {
 		play =true;
 		playerX+=40;
