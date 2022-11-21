@@ -1,0 +1,17 @@
+import java.applet.Applet;
+import java.awt.Graphics;
+
+public class snake_game extends Applet implements Runnable{
+	public void init() {
+		
+	}
+	public void paint(Graphics g) {
+		
+	}
+	public void update(Graphics g) {
+		
+	}
+public void repaint(Graphics g) {
+		
+	}
+}

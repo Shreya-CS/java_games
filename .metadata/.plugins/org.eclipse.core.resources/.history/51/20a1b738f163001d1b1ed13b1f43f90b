@@ -1,0 +1,16 @@
+import java.applet.Applet;
+
+public class snake_game extends Applet{
+	public void init() {
+		
+	}
+	public void paint() {
+		
+	}
+	public void update() {
+		
+	}
+public void repaint() {
+		
+	}
+}

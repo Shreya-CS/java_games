@@ -1,0 +1,22 @@
+import java.applet.Applet;
+import java.awt.Graphics;
+import java.awt.KeyListener;
+
+public class snake_game extends Applet implements Runnable,KeyListener{
+	public void init() {
+		
+	}
+	public void paint(Graphics g) {
+		
+	}
+	public void update(Graphics g) {
+		
+	}
+public void repaint(Graphics g) {
+		
+	}
+public void run() {
+	// TODO Auto-generated method stub
+	
+}
+}

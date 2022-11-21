@@ -1,0 +1,6 @@
+import java.applet.Applet;
+
+@SuppressWarnings("removal")
+public class snake_game extends Applet{
+
+}

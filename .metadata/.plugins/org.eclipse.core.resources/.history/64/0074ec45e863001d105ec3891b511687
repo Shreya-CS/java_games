@@ -1,0 +1,14 @@
+package snake-ball;
+
+public class point {
+	private int x,y;
+	
+	public point() {
+		x=0;
+		y=0;
+	}
+	public point(int x,int y) {
+		this.x=x;
+		this.y=y;
+	}
+}
